@@ -1,4 +1,3 @@
-
 #[test]
 fn syntax_character_edge_cases_00() {
     unimplemented!()

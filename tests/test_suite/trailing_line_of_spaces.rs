@@ -1,4 +1,3 @@
-
 #[test]
 fn trailing_line_of_spaces_00() {
     unimplemented!()

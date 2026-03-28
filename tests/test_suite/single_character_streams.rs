@@ -1,4 +1,3 @@
-
 #[test]
 fn single_character_streams_00() {
     unimplemented!()
